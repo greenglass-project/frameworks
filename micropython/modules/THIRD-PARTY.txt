@@ -1,0 +1,5 @@
+Google Protocol Buffers
+Copyright 2014, Google Inc. All rights reserved.
+The Software contains Google Protocol Buffers, which is protected under a BSD style license. 
+You can get the full source code for Google Protocol Buffers at: https://github.com/google/protobuf. 
+A copy of the license is available at https://github.com/google/protobuf/blob/master/LICENSE
