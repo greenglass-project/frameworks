@@ -7,10 +7,13 @@
 
 
 ```shell
+pip install aioreactive
 pip install aiomqtt
+pip install aiohttp
+pip install aiodns
 pip install pickledb
 pip install bidict
-pip install aioreactive
 pip install protobuf==3.20.1
+
 ```
 
