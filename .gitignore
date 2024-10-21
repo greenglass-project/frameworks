@@ -12,7 +12,7 @@
 .gradle
 
 migrate_working_dir/
-
+docs.saved
 __pycache__
 
 # IntelliJ related
