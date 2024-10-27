@@ -1,10 +1,10 @@
 # Theme settings
 doks:
     baseurl:
-    color_theme: green # Available themes: blue (default), green, purple, red and yellow
+    color_theme:  # Available themes: blue (default), green, purple, red and yellow
     header:
         logo:
-            text: Project name
+            text: The Greenglass Project
             image:
         nav:
             - item_name: Item 1
@@ -16,9 +16,9 @@ doks:
     footer:
         content:
             logo:
-                text: Project name
+                text: The Greenglass Project
                 image:
-            copyright: Copyright &copy; 2024. - Greenglass Project<br>All rights reserved.
+            copyright: Copyright &copy; 2024 - Greenglass Project<br>All rights reserved.
         social_list:
             - network_name: facebook
               profile_url: '#'
@@ -43,6 +43,6 @@ layouts_dir: ./doks-theme/_layouts
 includes_dir: ./doks-theme/_includes
 exclude: [ 'README.md', 'CHANGELOG.md' ]
 permalink: /:title/
-domain: greenglass-project.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: https://greenglass-project.github.io  # the base hostname and protocol for your site, e.g. http://example.com
-baseurl: /frameworks-NAME/      # place folder name if the site is served in a subfolder
+#domain: greenglass-project.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+#url: https://greenglass-project.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+#baseurl: /frameworks/      # place folder name if the site is served in a subfolder
